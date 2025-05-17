@@ -4,7 +4,7 @@ import telegram
 from datetime import datetime
 
 TOKEN = "7543856031:AAHD7fmHEa-2AycFmidDxZkg8ZxDbxKR86I"
-CHAT_ID = <YOUR_CHAT_ID>  # ← Sau khi chạy get_chat_id.py, thay bằng số Chat ID thật (không có dấu ngoặc kép)
+CHAT_ID = 5686594211  # ← Sau khi chạy get_chat_id.py, thay bằng số Chat ID thật (không có dấu ngoặc kép)
 FILE_PATH = "value_bet.txt"
 CHECK_INTERVAL = 300  # 5 phút
 
